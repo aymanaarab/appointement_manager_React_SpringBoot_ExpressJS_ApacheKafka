@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480">
+	<title>New Project</title>
+	<defs>
+		<image  width="640" height="480" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgAQMAAAAPH06nAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAJ5JREFUeJztzDEBAAAMAqDZv/RK6AcByJVFKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhcJ9+E4xAeFRbxGpAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 40px;fill: #000000;font-weight: 700;font-family: "FiraMono-Bold", "Fira Mono" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="Bookify" style="transform: matrix(1,0,0,1,245,251)" >
+		<tspan x="0" y="0" class="t0">Bookify
+</tspan>
+	</text>
+</svg>
